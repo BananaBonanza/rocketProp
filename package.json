@@ -1,6 +1,0 @@
-{
-  "name": "rocket prop",
-  "private": false,
-  "dependencies": {
-    "@numpy/numpy": "^1.18.0"
-}
